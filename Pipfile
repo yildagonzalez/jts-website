@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+mysqlclient = "*"
 
 [dev-packages]
-mysqlclient = "*"
 
 [requires]
 python_version = "3.6"
