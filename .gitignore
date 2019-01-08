@@ -1,6 +1,9 @@
 # project
 jts_website/jts_website/settings.py
 
+# pycache
+**/__pycache__/
+
 # vs code
 .vscode
 
