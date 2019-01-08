@@ -1,0 +1,8 @@
+# project
+jts_website/jts_website/settings.py
+
+# vs code
+.vscode
+
+# Piplock
+Pipfile.lock
